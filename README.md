@@ -1,6 +1,10 @@
 <h1 align="center">Hello Guys (:(:(:</h1>
 <h3 align="center">...</h3>
-
+<br>
+<!--
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="130">
+-->
+<img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif?cid=790b7611xdt8j61lkclte6nclxbtfbl0savoalh023shd0sd&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="130">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
